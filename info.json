@@ -1,13 +1,12 @@
 {
     "name": "as2_pyanodons",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "title": "As2pik - Pyanodons",
     "description": "Modpack utilisé par As2pik en live",
     "author": "ArnaudPiroelle",
     "factorio_version": "1.1",
     "dependencies": [
         "base >= 1.1.0",
-
         "AfraidOfTheDark >= 1.1.1",
         "FuelTrainStop >= 1.1.0",
         "Bottleneck >= 0.11.7",
@@ -15,14 +14,14 @@
         "DoingThingsByHand >= 1.2.2",
         "early_construction >= 0.9.3",
         "even-distribution >= 1.0.10",
-        "? EvenMoreTextPlates >= 1.2.3",
+        "EvenMoreTextPlates >= 1.2.3",
         "stdlib >= 1.4.8",
         "Fill4Me-fixed >= 0.10.1",
         "FNEI >= 0.4.2",
         "PatchFR >= 1.1.38",
         "py_mods_pack >= 2.0.0",
         "Squeak Through >= 1.8.2",
-        "? textplates >= 0.6.10",
-        "Waterfill_v17 >= 1.1.0",
+        "textplates >= 0.6.10",
+        "Waterfill_v17 >= 1.1.0"
     ]
 }
