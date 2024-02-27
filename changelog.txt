@@ -1,8 +1,15 @@
+Version: 0.3.0
+  Major Features:
+    - Compatibility between all armors and early construction mod
+
+---------------------------------------------------------------------------------------------------
+
 Version: 0.2.0
   Major Features:
     - Require textplates and EvenMoreTextPlates mods
 
 ---------------------------------------------------------------------------------------------------
+
 Version: 0.1.0
   Major Features:
     - Initial release.
