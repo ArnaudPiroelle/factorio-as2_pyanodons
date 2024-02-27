@@ -1,3 +1,9 @@
+Version: 0.4.0
+  Major Features:
+    - Add "Chest Auto Sort mod"
+
+---------------------------------------------------------------------------------------------------
+
 Version: 0.3.0
   Major Features:
     - Compatibility between all armors and early construction mod

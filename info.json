@@ -1,6 +1,6 @@
 {
     "name": "as2_pyanodons",
-    "version": "0.3.0",
+    "version": "0.4.0",
     "title": "As2pik - Pyanodons",
     "description": "Modpack utilisé par As2pik en live",
     "author": "ArnaudPiroelle",
@@ -10,6 +10,7 @@
         "AfraidOfTheDark >= 1.1.1",
         "FuelTrainStop >= 1.1.0",
         "Bottleneck >= 0.11.7",
+        "chest-auto-sort >= 1.0.0",
         "DiscoScience >= 1.1.3",
         "DoingThingsByHand >= 1.2.2",
         "early_construction >= 0.9.3",
